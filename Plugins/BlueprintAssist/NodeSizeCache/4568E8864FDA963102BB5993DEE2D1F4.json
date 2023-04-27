@@ -352,6 +352,30 @@
 					}
 				}
 			}
+		},
+		"/Game/HorrorEngine/Blueprints/UsableAssets/Lights/Spotlight":
+		{
+			"graphCache":
+			{
+				"4202227B4CACF8A13C1CA6A5FE13E0C9":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Imported/LibraryMap_BP":
+		{
+			"graphCache":
+			{
+				"891199D64234FE21911337A2B7ED8CBA":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
 		}
 	},
 	"cacheVersion": 1
