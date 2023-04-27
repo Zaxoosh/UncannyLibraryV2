@@ -25,14 +25,47 @@
 				}
 			}
 		},
-		"/Game/HorrorEngine/Maps/Overview":
+		"/Game/Levels/Library_01":
 		{
 			"graphCache":
 			{
-				"E3F1F2334D006BFE9E10209E2DE784C7":
+				"2FA18A274090BC462BD499958D9DBE25":
 				{
 					"cachedNodes":
 					{
+						"3D44225E4D0443E3172A898C3971C19D":
+						{
+							"cachedNodeSize":
+							{
+								"x": 221,
+								"y": 127
+							},
+							"cachedPins":
+							{
+								"4F59218F457741329A1ED98CBBCA873C": 41,
+								"B6CB170440C3F063E4DF93B2182A7FC1": 80,
+								"1E7CE335427EC9BF5A283AA3319298C5": 23,
+								"017333F64F7176983A5292BB5A412FB4": 31,
+								"0CC1E0764E9C4C8AF5B32093DDF5EA9E": 39,
+								"825570C44CE0769E5A8B509A342F3776": 47,
+								"00CE08A54CD78490BA91138C30490B9F": 55,
+								"B74B5E8A46C2B8F2DA05A0A9AC6CBE95": 63,
+								"8D9EDEB84228240C77D99981A3FFB313": 41
+							}
+						},
+						"D884463944DBA94A82AD959D138544C2":
+						{
+							"cachedNodeSize":
+							{
+								"x": 158,
+								"y": 58
+							},
+							"cachedPins":
+							{
+								"FE292DA9426F2CED499F39ACC4CBE4CE": 12,
+								"472D5F1240C1D6C318A4FDB26FC2C41A": 41
+							}
+						}
 					}
 				}
 			}
@@ -301,6 +334,18 @@
 			"graphCache":
 			{
 				"0E8FCE8A40A07E99F25339BD065F23F9":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Sounds/HorrorAmbience_Cue":
+		{
+			"graphCache":
+			{
+				"3ECE95EE4D687637D4C9A1BB3EF8DF5A":
 				{
 					"cachedNodes":
 					{
