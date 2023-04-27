@@ -22,8 +22,9 @@ Uncanny Valley is a first-person 3D horror game built using Unreal Engine 5. The
 - Custom character models created with Blender
 
 ## Development Team
-- **[Your Name]** - Programming, Audio Design, Character Modeling
+- **Zach** - Programming
 - **Will** - Sound Design
+- **Max** - Visual Design
 
 ## Tools and Technologies
 - **Unreal Engine 5** - Game engine
